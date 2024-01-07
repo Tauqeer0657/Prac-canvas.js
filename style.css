@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-Container1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.main-Container2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.chartsContainer1{
+    height: 300px;
+    width: 40%;
+}
+.chartsContainer2{
+    height: 300px;
+    width: 40%;
+}
